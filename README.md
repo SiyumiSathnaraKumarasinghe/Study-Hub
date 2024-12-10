@@ -35,7 +35,7 @@ Welcome to **Study Hub**, a meticulously designed **educational mobile applicati
 ---
 
 ## 📸 **Screenshots**  
-[![ScreenShots](https://img.shields.io/badge/ScreenShots-Explore%20Now-blue?style=for-the-badge&logo=google-drive&logoColor=white)]([https://drive.google.com/drive/folders/1uUGDvH45s-qhjVW73CimDDwQOcKSBa09?usp=drive_link](https://www.dropbox.com/scl/fo/3l7jyeva9isxvkwm8dg9k/ACBurc3Wcp1smFno4Bbvf7g?rlkey=o59d5w3b2kx5fu1l3j4t9qvl2&st=vgfegcfx&dl=0))
+[![ScreenShots](https://img.shields.io/badge/ScreenShots-View%20Now-blue?style=for-the-badge&logo=dropbox&logoColor=white)](https://www.dropbox.com/scl/fo/3l7jyeva9isxvkwm8dg9k/ACBurc3Wcp1smFno4Bbvf7g?rlkey=o59d5w3b2kx5fu1l3j4t9qvl2&st=vgfegcfx&dl=0)
 
 ---
 
